@@ -1,4 +1,9 @@
-#
+# **Projeto SQL — Sistema de Loja de Periféricos e Hardware de PC**
+Este projeto consiste na modelagem e implementação de um banco de dados relacional para uma loja especializada em periféricos e hardware de computadores, incluindo também o gerenciamento de serviços de manutenção.
+
+O objetivo é simular um ambiente real de vendas e suporte técnico, permitindo o cadastro de clientes, produtos e serviços, além da manipulação e consulta de dados por meio de comandos SQL.
+
+O sistema foi desenvolvido com foco no aprendizado prático de modelagem de dados.
 
 <img width="616" height="433" alt="image" src="https://github.com/user-attachments/assets/d9f23290-289b-4025-b497-c8594d5e6410" />
 <img width="607" height="427" alt="image" src="https://github.com/user-attachments/assets/8584e9f2-4a55-4312-98b2-9510d3b667c5" />
