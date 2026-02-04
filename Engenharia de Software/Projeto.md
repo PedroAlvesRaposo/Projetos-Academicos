@@ -10,9 +10,13 @@ O objetivo principal é garantir um processo de seleção justo, rápido e total
 **Principais funcionalidades**
 
 • Avaliação automática dos resultados da prova prática
+
 • Cálculo e ordenação das pontuações
+
 • Classificação dos candidatos por desempenho
+
 • Seleção dos membros titulares e reservas
+
 • Geração de ranking final
 
 <img width="1057" height="594" alt="image" src="https://github.com/user-attachments/assets/a22c4a90-a5f8-4893-8481-b6170d51ac70" />
